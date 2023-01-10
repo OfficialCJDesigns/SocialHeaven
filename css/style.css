@@ -432,8 +432,8 @@ a.text-footer:hover, a.text-footer:focus {
 }
 
 .btn-primary {
-  background-color: #0666db !important;
-  border: 1px solid #0666db !important;
+  background-color: #8C52FF !important;
+  border: 1px solid #8C52FF !important;
   color: #ffffff !important;
   -webkit-box-shadow: 0 3px 7px rgba(6, 102, 219, 0.5);
           box-shadow: 0 3px 7px rgba(6, 102, 219, 0.5);
@@ -448,28 +448,28 @@ a.text-footer:hover, a.text-footer:focus {
 .btn-soft-primary {
   background-color: rgba(6, 102, 219, 0.15) !important;
   border: 1px solid rgba(6, 102, 219, 0.1) !important;
-  color: #0666db !important;
+  color: #8C52FFb !important;
   -webkit-box-shadow: 0 3px 7px rgba(6, 102, 219, 0.2);
           box-shadow: 0 3px 7px rgba(6, 102, 219, 0.2);
 }
 
 .btn-soft-primary:hover, .btn-soft-primary:focus, .btn-soft-primary:active, .btn-soft-primary.active, .btn-soft-primary.focus {
-  background-color: #0666db !important;
-  border-color: #0666db !important;
+  background-color: #8C52FF !important;
+  border-color: #8C52FF !important;
   color: #ffffff !important;
   -webkit-box-shadow: 0 3px 7px rgba(6, 102, 219, 0.5);
           box-shadow: 0 3px 7px rgba(6, 102, 219, 0.5);
 }
 
 .btn-outline-primary {
-  border: 1px solid #0666db;
-  color: #0666db;
+  border: 1px solid #8C52FF;
+  color: #8C52FF;
   background-color: transparent;
 }
 
 .btn-outline-primary:hover, .btn-outline-primary:focus, .btn-outline-primary:active, .btn-outline-primary.active, .btn-outline-primary.focus, .btn-outline-primary:not(:disabled):not(.disabled):active {
-  background-color: #0666db;
-  border-color: #0666db;
+  background-color: #8C52FF;
+  border-color: #8C52FF;
   color: #ffffff;
   -webkit-box-shadow: 0 3px 7px rgba(6, 102, 219, 0.5);
           box-shadow: 0 3px 7px rgba(6, 102, 219, 0.5);
@@ -957,7 +957,7 @@ button:not(:disabled) {
 .alert-primary {
   background-color: #076fef;
   color: #ffffff;
-  border-color: #0666db;
+  border-color: ##8C52FF;
 }
 
 .alert-primary .alert-link {
@@ -966,8 +966,8 @@ button:not(:disabled) {
 
 .alert-outline-primary {
   background-color: #ffffff;
-  color: #0666db;
-  border-color: #0666db;
+  color: #8C52FF;
+  border-color: #8C52FF;
 }
 
 .alert-secondary {
@@ -1256,7 +1256,7 @@ button:not(:disabled) {
   display: block;
   width: 25%;
   height: 25%;
-  background-color: #0666db;
+  background-color: #8C52FF;
   border-radius: 100%;
   -webkit-animation: sk-chase-dot-before 2.0s infinite ease-in-out both;
           animation: sk-chase-dot-before 2.0s infinite ease-in-out both;
